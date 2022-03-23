@@ -1,0 +1,24 @@
+{
+  "name": "stg-watcher",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD # stg-watcher ======= >>>>>>> f9eedfe (Add readme)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick3842/stg-watcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick3842/stg-watcher/issues"
+  },
+  "homepage": "https://github.com/nick3842/stg-watcher#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
